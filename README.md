@@ -59,7 +59,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Hands-On Computer Vision with TensorFlow 2 [[Packt]](https://www.packtpub.com/application-development/hands-computer-vision-tensorflow-2) [[Amazon]](https://www.amazon.com/Hands-Computer-Vision-TensorFlow-processing/dp/1788830644)
 
-## Get to Know the Author
+## Get to Know the Authors
 **Ajay Baranwal** works as a director at the Center for Deep Learning in Electronics Manufacturing, where he is responsible for researching and developing TensorFlow-based deep learning applications in the semiconductor and electronics manufacturing industry. Part of his role is to teach and train deep learning techniques to professionals.
 He has a solid history of software engineering and management, where he got hooked on deep learning. He moved to natural language understanding (NLU) to pursue deep learning further at Abzooba and built an information retrieval system for the finance sector. He has also worked at Ansys Inc. as a senior manager (engineering) and a technical fellow (data science) and introduced several ML applications.
 
