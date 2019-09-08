@@ -26,6 +26,9 @@ y_test = tf.one_hot(
     depth=10
 )
 
+# Scale input values between 0 and 1
+x_train = x_train / 255
+x_test = x_test / 255
 
 # Build neural network for classification
 model = keras.Sequential()
