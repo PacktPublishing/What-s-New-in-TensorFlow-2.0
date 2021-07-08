@@ -52,7 +52,7 @@ model.add(
 
 # Compile model
 model.compile(loss=keras.losses.categorical_crossentropy,
-              optimizer=keras.optimizers.SGD(),
+              optimizer=keras.optimizers.SGD(learning_rate=0.0005),
               metrics=['accuracy'])
 
 # Train model
